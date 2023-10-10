@@ -1,1 +1,3 @@
 fichero version v1
+
+añadimos texto
